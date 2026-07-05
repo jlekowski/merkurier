@@ -1,0 +1,33 @@
+BODY {
+	BACKGROUND-COLOR: #3a5389
+}
+TD {
+	FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A {
+	COLOR: #3a5389; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #7d94c8; TEXT-DECORATION: underline
+}
+TD.nie {
+	LINE-HEIGHT: 20px; BACKGROUND-COLOR: #d4ddec
+}
+UL {
+	LIST-STYLE-IMAGE: url(images/li.jpg)
+}
+TD.ad {
+	COLOR: #3a5389; BACKGROUND-COLOR: white
+}
+A.c {
+	COLOR: #cdd6ea
+}
+A.c:hover {
+	COLOR: #fefefe
+}
+STRONG.n {
+	FONT-SIZE: 17px; COLOR: #7c89b3
+}
+TD.ofe {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; LINE-HEIGHT: 17px; PADDING-TOP: 10px
+}
